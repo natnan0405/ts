@@ -11,7 +11,7 @@ export default function Layouts(props) {
   const store = storeFactory();
   return (
     <Provider store={store}>
-      <h1>THIS IS HEADER</h1>
+      <h1>THIS IS HEADER Hello</h1>
       {props.children}
       <h1>THIS IS FOOTER</h1>
     </Provider>

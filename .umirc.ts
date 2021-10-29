@@ -2,7 +2,7 @@
  * @Author: SmartNan
  * @Date: 2021-09-14 10:34:04
  * @LastEditTime: 2021-10-09 15:11:43
- * @Description: 相关描述
+ * @Description: umi配置
  */
 import { defineConfig } from 'umi';
 import routes from './src/router/routes';
